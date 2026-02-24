@@ -1,0 +1,7 @@
+name: astrbot_plugin_supervisor2
+display_name: 赛博监工2
+desc: 赛博监工2，检测到某人水群，就提醒他去干活
+help: 略
+version: v1.0.4
+author: Darcy
+repo: https://github.com/Darcy-C/astrbot_plugin_supervisor2

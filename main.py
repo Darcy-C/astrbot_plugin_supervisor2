@@ -31,7 +31,7 @@ class SupervisorPlugin(Star):
         self.config = config
 
         self.image_dir = os.path.join(
-            "data", "plugins", "astrbot_plugin_supervisor", "image"
+            "data", "plugins", "astrbot_plugin_supervisor2", "image"
         )
 
         # qq -> expire_ts
